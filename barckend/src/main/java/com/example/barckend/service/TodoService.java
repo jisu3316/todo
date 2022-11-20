@@ -6,6 +6,7 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
@@ -17,14 +18,16 @@ public class TodoService {
 
     private final TodoRepository repository;
 
-    public String testService() {
+    public List<Todo> testService() {
         // TodoEntity 생성
-        Todo entity = Todo.builder().title("My first todo item").build();
-        // TodoEntity 저장
-        repository.save(entity);
-        // TodoEntity 검색
-        Todo savedEntity = repository.findById(entity.getId()).get();
-        return savedEntity.getTitle();
+//        Todo entity = Todo.builder().title("My first todo item").build();
+//        // TodoEntity 저장
+//        repository.save(entity);
+//        // TodoEntity 검색
+//        Todo savedEntity = repository.findById(entity.getId()).get();
+        List<Todo> all = repository.findAll();
+
+        return all;
     }
 
     public List<Todo> create(final Todo entity) {

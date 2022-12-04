@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba36796f-ec06-44c0-92c1-32cbd76411fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/react-spring-todo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/TodoBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/TodoBackendApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/controller/HealthCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/controller/HealthCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/controller/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/controller/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/dto/ResponseDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/dto/ResponseDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/dto/TodoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/dto/TodoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/model/Todo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/model/Todo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/repository/TodoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/repository/TodoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/security/ServletFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/security/ServletFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/security/TokenProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/security/TokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/service/TodoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/service/TodoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/java/com/example/barckend/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/java/com/example/backend/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../barckend/src/test/java/com/example/barckend/BarckendApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/test/java/com/example/backend/BarckendApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IS5FiuxjWOF2JLJxDNbqWdcZ8C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kimjisu/Desktop/Intellij/react-spring-todo/frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba36796f-ec06-44c0-92c1-32cbd76411fd" name="Changes" comment="" />
+      <created>1670162041430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670162041430</updated>
+      <workItem from="1670162042910" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
